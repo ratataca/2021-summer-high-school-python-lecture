@@ -1,7 +1,3 @@
-# Keyboard Piano
-# author: Kwang-Hyun Park (akaii@kw.ac.kr)
-
-# Ctrl + C to terminate
 
 from roboid import *
 
