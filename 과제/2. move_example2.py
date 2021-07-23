@@ -1,10 +1,3 @@
-
-## * 주제 *
-## 각 2초동안 직진, 후진, 좌우로 햄스터 로봇 이동하자!
-
-## 과제 1 :  해당 코드를 실행해보자
-## 과제 2 :  move_example1에서 사용한 hamster.wheels(50, 50)와 비교하여 생각해보자
-
 from roboid import *
 
 hamster = Hamster()
